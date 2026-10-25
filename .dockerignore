@@ -1,0 +1,7 @@
+node_modules
+.next
+out
+.git
+.venv
+test-results
+playwright-report

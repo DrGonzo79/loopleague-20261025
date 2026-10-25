@@ -1,0 +1,6 @@
+[
+  {"id":"sub-101","school":"Harbor High","region":"North","captain":"Maya R.","challenge":"30-touch relay","views":1840,"completion":92,"facultyVerified":true,"consentComplete":true,"status":"ready"},
+  {"id":"sub-102","school":"Lakeview Prep","region":"North","captain":"Theo W.","challenge":"30-touch relay","views":970,"completion":88,"facultyVerified":true,"consentComplete":false,"status":"hold"},
+  {"id":"sub-103","school":"East Ridge","region":"East","captain":"Nia C.","challenge":"Trick-shot week","views":2310,"completion":96,"facultyVerified":true,"consentComplete":true,"status":"ready"},
+  {"id":"sub-104","school":"Pine Academy","region":"East","captain":"Alex J.","challenge":"Trick-shot week","views":610,"completion":71,"facultyVerified":false,"consentComplete":true,"status":"hold"}
+]
